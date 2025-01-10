@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
         
+<<<<<<< HEAD
     <wb-module deploy-name="Apartment">
+=======
+    <wb-module deploy-name="ApartmentManagement">
+>>>>>>> 72e3f6b5d3eabe4ffb721213fa8088eae1397f12
                 
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
                 
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
                 
+<<<<<<< HEAD
         <property name="java-output-path" value="/Apartment/build/classes"/>
         <property name="context-root" value="Apartment"/>
+=======
+        <property name="java-output-path" value="/ApartmentManagement/build/classes"/>
+        <property name="context-root" value="ApartmentManagement"/>
+>>>>>>> 72e3f6b5d3eabe4ffb721213fa8088eae1397f12
             
     </wb-module>
     

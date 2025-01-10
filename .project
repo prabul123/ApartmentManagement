@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Apartment</name>
+=======
+	<name>ApartmentManagement</name>
+>>>>>>> 72e3f6b5d3eabe4ffb721213fa8088eae1397f12
 	<comment></comment>
 	<projects>
 	</projects>
