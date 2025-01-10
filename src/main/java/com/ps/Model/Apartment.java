@@ -29,6 +29,7 @@ public class Apartment {
 		ResultSet rs = null;
 		String status = "";
 		
+		
 	}
 	
 }
